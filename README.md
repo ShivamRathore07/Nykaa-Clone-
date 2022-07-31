@@ -4,6 +4,13 @@
 
 #### Nykaa is an Indian e-commerce Mumbai-based retail seller of beauty, fashion and wellness products. The ecommerce startup lists products from over 1200 global brands along with its own line of products Nykaa Cosmetics and Nykaa Naturals.It sells beauty,wellness and fashion product across website,mobile apps and 76 offline store.
 
+## Our Team Members ❤️
+
+- **[Shivam Rathore](https://github.com/ShivamRathore07)**
+- **[Anupam kumar](https://github.com/hlv-kakashi)**
+- **[Satyajeet Sahoo](https://github.com/SatsAjeet)**
+- **[Shreyansh Gupta](https://github.com/Shreyansh051)**
+- **[Gaurav Kumar](https://github.com/gauravkrs)**
 
 # Technologies we used 
 * HTML5
@@ -13,6 +20,8 @@
 * Bootstrap
 * MongoDB as Database
 * Express , EJS for Backend
+
+
 
 # Installing and Running
 
